@@ -1,0 +1,22 @@
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab3\Notatnik\Notatnik\bin\Debug\Notatnik.exe.config
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab3\Notatnik\Notatnik\bin\Debug\Notatnik.exe
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab3\Notatnik\Notatnik\bin\Debug\Notatnik.pdb
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab3\Notatnik\Notatnik\obj\Debug\Notatnik.csprojAssemblyReference.cache
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab3\Notatnik\Notatnik\obj\Debug\Notatnik.Properties.Resources.resources
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab3\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.GenerateResource.cache
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab3\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.CoreCompileInputs.cache
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab3\Notatnik\Notatnik\obj\Debug\Notatnik.exe
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab3\Notatnik\Notatnik\obj\Debug\Notatnik.pdb
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab3\Notatnik\Notatnik\obj\Debug\Notatnik.FormMain.resources
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab3\Notatnik\Notatnik\obj\Debug\Notatnik.FormConfig.resources
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\3. Notatnik\Notatnik\Notatnik\obj\Debug\Notatnik.csprojAssemblyReference.cache
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\3. Notatnik\Notatnik\Notatnik\obj\Debug\Notatnik.FormConfig.resources
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\3. Notatnik\Notatnik\Notatnik\obj\Debug\Notatnik.FormMain.resources
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\3. Notatnik\Notatnik\Notatnik\obj\Debug\Notatnik.Properties.Resources.resources
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\3. Notatnik\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.GenerateResource.cache
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\3. Notatnik\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.CoreCompileInputs.cache
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\3. Notatnik\Notatnik\Notatnik\obj\Debug\Notatnik.exe
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\3. Notatnik\Notatnik\Notatnik\obj\Debug\Notatnik.pdb
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\3. Notatnik\Notatnik\Notatnik\bin\Debug\Notatnik.exe.config
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\3. Notatnik\Notatnik\Notatnik\bin\Debug\Notatnik.exe
+D:\OneDrive - Uniwersytet Łódzki\4 semestr\Programowanie komponentowe\3. Notatnik\Notatnik\Notatnik\bin\Debug\Notatnik.pdb
